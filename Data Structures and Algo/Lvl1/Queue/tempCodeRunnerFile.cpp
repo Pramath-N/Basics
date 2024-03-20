@@ -1,0 +1,1 @@
+std::cout<<mq -> isempty();

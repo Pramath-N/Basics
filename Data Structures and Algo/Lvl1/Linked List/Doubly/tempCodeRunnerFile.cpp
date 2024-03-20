@@ -1,0 +1,1 @@
+   // if(head = NULL) return new Node(x);
